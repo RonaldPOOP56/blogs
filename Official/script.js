@@ -60,5 +60,5 @@ window.addEventListener('load', function() {
 });
 
 function s() {
-  window.location.href = '/index.html';
+  window.location.href = '/pwd.html';
 }
