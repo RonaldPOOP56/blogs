@@ -60,5 +60,5 @@ window.addEventListener('load', function() {
 });
 
 function s() {
-  window.location.href = '/pwd.html';
+  window.location.href = 'https://www.ronaldpoop56.github.io/pwd.html';
 }
