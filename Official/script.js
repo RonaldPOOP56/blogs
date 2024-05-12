@@ -58,3 +58,7 @@ function a() {
 window.addEventListener('load', function() {
   loadList();
 });
+
+function s() {
+  window.location.href = '/index.html';
+}
